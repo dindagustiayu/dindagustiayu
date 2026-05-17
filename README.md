@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi! I'm interested in using Machine Learning 🤖 \
+to learn the rules of Quantum Mechanics 🤯 \
+and simulate crystalline and amorphous solid systems 💻
+
+
+I wrote and maintain the following repositories:
+
+>**[🌐 random-spaces](https://dindagustiayu.github.io/randomspaces.github.io/)**\
+> interactive notebooks as a knowledge base for everyone who wants to apply Python to solve real physics and chemistry problems.
+
+---
+
+
+Find me [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=d2p3h2IAAAAJ) on Google Scholar, or visit my [landing page](https://dindagustiayu.github.io).
 
 <!--
 **dindagustiayu/dindagustiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
