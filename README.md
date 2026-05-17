@@ -1,6 +1,6 @@
 Hi! I'm interested in using Machine Learning 🤖 \
 to learn the rules of Quantum Mechanics 🤯 \
-and simulate crystalline and amorphous solid systems 💻
+and Simulate Crystalline and Amorphous Solid Systems 💻
 
 
 I wrote and maintain the following repositories:
