@@ -6,7 +6,7 @@ and Simulate Crystalline and Amorphous Solid Systems 💻
 I wrote and maintain the following repositories:
 
 >**[🌐 random-spaces](https://dindagustiayu.github.io/randomspaces.github.io/)**\
-> interactive notebooks as a knowledge base for everyone who wants to apply Python to solve real physics and chemistry problems.
+> interactive notebooks as a knowledge base for everyone who wants to apply Python in their work.
 
 ---
 
