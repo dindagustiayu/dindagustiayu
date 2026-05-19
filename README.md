@@ -8,6 +8,9 @@ I wrote and maintain the following repositories:
 >**[🌐 random-spaces](https://dindagustiayu.github.io/randomspaces.github.io/)**\
 > interactive notebooks as a knowledge base for everyone who wants to apply Python in their work.
 
+>**[🕸️ diff-refinement](https://github.com/dindagustiayu/diff-refinement/)**\
+> train and use powerxrd to simulate diffraction patterns.
+
 ---
 
 
