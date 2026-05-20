@@ -9,7 +9,7 @@ I wrote and maintain the following repositories:
 > interactive notebooks as a knowledge base for everyone who wants to apply Python in their work.
 
 >**[🕸️ diff-refinement](https://github.com/dindagustiayu/diff-refinement/)**\
-> train and use powerxrd to simulate diffraction patterns.
+> algorithm experimentation - powerxrd to simulate diffraction patterns.
 
 ---
 
