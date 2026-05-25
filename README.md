@@ -11,6 +11,9 @@ I wrote and maintain the following repositories:
 >**[🕸️ diffrac-refinement](https://github.com/dindagustiayu/diffrac-refinement/)**\
 > algorithm experimentation - powerxrd to simulate diffraction patterns.
 
+>**[💽 data-processing](https://github.com/dindagustiayu/data-processing/)**\
+> a digital textbook to characterisation material results.
+
 ---
 
 
