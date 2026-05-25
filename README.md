@@ -12,7 +12,7 @@ I wrote and maintain the following repositories:
 > algorithm experimentation - powerxrd to simulate diffraction patterns.
 
 >**[💽 data-processing](https://github.com/dindagustiayu/data-processing/)**\
-> a digital textbook to characterisation material results.
+> a digital textbook and practical guide to characterise material results.
 
 ---
 
