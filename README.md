@@ -17,7 +17,7 @@ I wrote and maintain the following repositories:
 ---
 
 
-Find me [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=d2p3h2IAAAAJ) on Google Scholar, or visit my [landing page](https://dindagustiayu.github.io).
+Find me [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=d2p3h2IAAAAJ) on Google Scholar, or visit my [landing page](https://dindagustiayu.com/).
 
 <!--
 **dindagustiayu/dindagustiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
