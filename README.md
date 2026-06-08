@@ -14,8 +14,15 @@ I wrote and maintain the following repositories:
 >**[💽 data-processing](https://github.com/dindagustiayu/data-processing/)**\
 > a digital textbook and practical guide to interpreting materials characterization results.
 
+
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dindagustiayu&theme=tokyonight&exclude={exclude})
+
 ---
 
+![GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dindagustiayu&theme=tokyonight)
+
+---
 
 Find me [here](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=d2p3h2IAAAAJ) on Google Scholar, or visit my [landing page](https://dindagustiayu.com/).
 
