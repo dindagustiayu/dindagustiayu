@@ -22,10 +22,10 @@ My profile is available in the links below:
  [![Static Badge](https://img.shields.io/badge/linkedin-CV-blue?style=social&logo=linkedin&logoColor=blue&logoSize=auto&label=LinkedIn&labelColor=navy&color=hex)](https://linkedin.com/in/dinda-gusti-ayu-8049a01b0)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dindagustiayu&theme=tokyonight&exclude={exclude})
+[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dindagustiayu&theme=tokyonight&exclude={exclude})](https://profile-summary-for-github.com/user/dindagustiayu)
 
 
-![GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dindagustiayu&theme=tokyonight)
+[![GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dindagustiayu&theme=tokyonight)](https://profile-summary-for-github.com/user/dindagustiayu)
 
 ---
 
