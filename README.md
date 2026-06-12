@@ -15,6 +15,7 @@ I wrote and maintain the following repositories:
 > a digital textbook and practical guide to interpreting materials characterization results.
 
 All code was learned autodidactically and no certifications!
+
 ---
 Let's connect with me through the links below:
 
