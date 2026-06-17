@@ -25,9 +25,9 @@ Let's connect with me through the links below:
 
 
 
-[![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://profile-summary-for-github.com/user/dindagustiayu) [![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://profile-summary-for-github.com/user/dindagustiayu)
 
-[![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://profile-summary-for-github.com/user/dindagustiayu)
 
 ---
 
