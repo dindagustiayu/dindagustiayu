@@ -24,10 +24,10 @@ Let's connect with me through the links below:
  [![Static Badge](https://img.shields.io/badge/linkedin-CV-blue?style=social&logo=linkedin&logoColor=blue&logoSize=auto&label=LinkedIn&labelColor=navy&color=hex)](https://linkedin.com/in/dinda-gusti-ayu-8049a01b0)
 
 
-[![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dindagustiayu&theme=tokyonight&exclude={exclude})](https://profile-summary-for-github.com/user/dindagustiayu)
 
+[![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dindagustiayu&theme=tokyonight)](https://profile-summary-for-github.com/user/dindagustiayu)
+[![](https://raw.githubusercontent.com/dindagustiayu/profile-summary/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
