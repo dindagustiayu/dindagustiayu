@@ -5,7 +5,7 @@ and Simulate Crystalline and Amorphous Solid Systems 💻
 
 I wrote and maintain the following repositories:
 
->**[🌐 eigen-spaces](https://github.com/dindagustiayu/eigenspaces.github.io.git)**\
+>**[🌐 eigen-spaces](https://dindagustiayu.com/eigenspaces.github.io/)**\
 > an interactive notebook as a knowledge base for everyone who wants to apply Python in their work.
 
 >**[🕸️ diffrac-refinement](https://github.com/dindagustiayu/diffrac-refinement/)**\
