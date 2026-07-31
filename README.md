@@ -1,5 +1,5 @@
 Hi! I'm interested in using Machine Learning 🤖 \
-to learn the rules of Quantum Mechanics 🤯 \
+to learn the rules of Quantum Mechanics ⚡ \
 and Simulate Crystalline and Amorphous Solid Systems 💻
 
 
